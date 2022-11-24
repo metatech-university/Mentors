@@ -9,6 +9,6 @@
 | [Владислав Духин](https://github.com/primeare) | backend, frontend, JS, TS, SOLID, GRASP | [WayForPay](https://vladyslav.wayforpay.shop/#products-7491) |
 | [Алексей Голиков](https://github.com/agil) | frontend, JS, TS, БД |  |
 | [Денис Отришко](https://github.com/lundibundi) | backend, Node.js, JS, TS |  |
-| [Георг Ольденбургер](https://github.com/georgolden) | структуры данных, backend, Node.js, JS |  |
+| [Георг Ольденбургер](https://github.com/georgolden) | backend, Node.js, JS, TS, Go, English, Metaprogramming | [Patreon](https://www.patreon.com/user?u=28695275) |
 | [Николай Белочуб](https://github.com/belochub) | backend, Node.js, JS |  |
 | Виталий Кухар | frontend, backend, Node.js, JS |  |
